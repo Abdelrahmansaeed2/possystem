@@ -63,10 +63,6 @@ A comprehensive, modern Point of Sale (POS) system built with Next.js, TypeScrip
 ### Quick Start
 
 1. **Clone the repository**
-\`\`\`bash
-git clone https://github.com/yourusername/cafe-pos-pro.git
-cd cafe-pos-pro
-\`\`\`
 
 2. **Install dependencies**
 \`\`\`bash
