@@ -149,7 +149,6 @@ docker run -p 3000:3000 cafe-pos-pro
 2. **Set environment variables in Vercel dashboard**
 3. **Deploy automatically on push to main branch**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/cafe-pos-pro)
 
 ### Railway (Backend)
 
@@ -283,18 +282,6 @@ npm run test:e2e
 - Mixpanel
 - Sentry (Error tracking)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 
 ### Demo Accounts
@@ -316,9 +303,3 @@ For testing purposes, use these demo accounts:
 - [Radix UI](https://www.radix-ui.com/) - Accessible components
 - [Lucide](https://lucide.dev/) - Beautiful icons
 
-
-\`\`\`
-
-
-# possystem
-# possystem
